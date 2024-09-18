@@ -63,7 +63,7 @@ To run this project locally:
    npm start
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   
 
 ## Usage
 
@@ -81,9 +81,6 @@ The application uses the browser's localStorage to persist data. Board and card 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Add your chosen license here]
 
 ## Acknowledgements
 
